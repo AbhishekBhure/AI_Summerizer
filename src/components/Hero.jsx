@@ -22,7 +22,7 @@ const Hero = () => {
       <h2 className="desc">
         {" "}
         Simplify your reading with summize, an open-source article summerizer
-        that trandforms lengthy articles into clear and concise summaries{" "}
+        that transforms lengthy articles into clear and concise summaries{" "}
       </h2>
     </header>
   );
